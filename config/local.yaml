@@ -1,0 +1,3 @@
+env: "dev"
+storagePath: "storage/storage.db"
+httpServer:
